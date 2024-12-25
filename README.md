@@ -1,0 +1,24 @@
+<h1>🎅 Blum Clicker 🎅</h1>
+
+<p>Tutorial<p>
+<ol>
+  <li>Install python 3.11</li>
+  <li>Extract the files to the folder</li>
+  <li>Open install.bat</li>
+  <li>Open Telegram Desktop and Blum</li>
+  <li>Open start.bat</li>
+  <li>'enter' to start or 's' to stop</li>
+  <li>Enjoy</li>
+</ol>
+
+<h2>requirements libs</h2>
+<code>opencv-python
+numpy
+mss
+ultralytics
+pygetwindow
+time
+os
+mouse
+keyboard
+random</code>
