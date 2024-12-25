@@ -1,0 +1,10 @@
+opencv-python
+numpy
+mss
+ultralytics
+pygetwindow
+time
+os
+mouse
+keyboard
+random
