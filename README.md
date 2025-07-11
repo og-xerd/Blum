@@ -1,6 +1,5 @@
-<h1>🎅 Blum Clicker 🎅</h1>
+#🎅 Blum Clicker 🎅
 
-<p>Tutorial<p>
 <ol>
   <li>Install python 3.11</li>
   <li>Extract the files to the folder</li>
@@ -11,7 +10,7 @@
   <li>Enjoy</li>
 </ol>
 
-<h2>requirements libs</h2>
+## Requirements libs
 <code>opencv-python
 numpy
 mss
@@ -24,7 +23,6 @@ keyboard
 random</code>
 
 
-<h2>Preview</h2>
-
+### Preview
 https://github.com/user-attachments/assets/96a38e60-96b6-4196-b5e0-420e98587ede
 
